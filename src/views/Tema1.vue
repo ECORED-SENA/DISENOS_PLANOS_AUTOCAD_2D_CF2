@@ -151,7 +151,8 @@
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
           p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
-
+    
+    p.mb-5 Símetria (Espejo)
     .bloque-texto-a.color-custom.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-8.mb-4.mb-lg-0

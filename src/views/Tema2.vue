@@ -24,7 +24,7 @@
                   | Mostrar u ocultar elementos que no se desee imprimir o ver al momento de modificar el dibujo.
                 li
                   i.fas.fa-pencil-ruler(style="color:#FBA321")
-                  | ICambiar el tipo de línea, su espesor, color y si la misma se puede imprimir o no.
+                  | Cambiar el tipo de línea, su espesor, color y si la misma se puede imprimir o no.
               .cajon.color-primario.p-4.mb-4
                 p <b>Importante:</b> Hay que abstenerse de crear todos los elementos en una capa. Las capas son la función de organización más importante de los dibujos de AutoCAD.
     Separador        
@@ -37,9 +37,9 @@
     .row.justify-content-center.align-items-center
             .col-6.col-md-8.col-lg-6.mb-5
                 img(src="@/assets/curso/images/tema2/img_5.svg" alt="", style="width:500px; display:block; margin: 0 auto;")  
-
+    br
     p.mb-5 A continuación, en la imagen se señala lo que el administrador de propiedades de capas muestra.
-
+    br
     .row.justify-content-center.align-items-center
             .col-6.col-md-8.col-lg-6.mb-5
                 img(src="@/assets/curso/images/tema2/img_6.svg" alt="", style="width:500px; display:block; margin: 0 auto;")  
@@ -137,17 +137,17 @@
     .row.justify-content-center.align-items-center.mb-5
         .col-12.col-md-8.col-lg-6.col-xl-6
 
-          p.mb-3 Para crear una nueva capa, se debe hacer clic en el botón que se muestra y escribir el nombre de la nueva capa. Para convertir una capa diferente en la actual, se debe hacer clic en la capa y, a continuación, en el botón indicado.
+          p.mb-3 Para crear una nueva capa, se debe hacer clic en el botón que se muestra y escribir el nombre de la nueva capa. Para convertir una capa diferente en la actual, se debe hacer clic en la capa, y a continuación, en el botón indicado.
 
         .col-12.col-md-8.col-lg-6.col-xl-6
 
-          img(src="@/assets/curso/images/tema2/img_7.svg" alt="", style="width:450px; display: block; margin:0 auto ;")
+          img(src="@/assets/curso/images/tema2/img_7.svg" alt="", style="width:550px; display: block; margin:0 auto ;")
 
     .row.justify-content-center.align-items-center.mt-5
         
         .col-12.col-md-8.col-lg-6.col-xl-6
 
-          img(src="@/assets/curso/images/tema2/img_8.svg" alt="", style="width:450px; display: block; margin:0 auto ;")
+          img(src="@/assets/curso/images/tema2/img_8.svg" alt="", style="width:550px; display: block; margin:0 auto ;")
         
         .col-12.col-md-8.col-lg-6.col-xl-6
 
@@ -161,7 +161,7 @@
 
         .col-12.col-md-8.col-lg-6.col-xl-6
 
-          img(src="@/assets/curso/images/tema2/img_9.svg" alt="", style="width:450px; display: block; margin:0 auto ;")
+          img(src="@/assets/curso/images/tema2/img_9.svg" alt="", style="width:550px; display: block; margin:0 auto ;")
 
     h5.mb-3 Recomendación: mantener las normas.
 
@@ -173,9 +173,11 @@
     .row.justify-content-center.align-items-center.mb-5
         .col-12.col-md-8.col-lg-6.col-xl-8
 
-    img(src="@/assets/curso/images/tema2/img_10.svg" alt="", style="width:750px; display: block; margin:0 auto ;")
+    img(src="@/assets/curso/images/tema2/img_10.svg" alt="", style="width:850px; display: block; margin:0 auto ;")
 
-    p.my-5 A continuación, en el Video 20, se describe el paso a paso de la aplicación y administración de capas: 
+    p.my-5 Capas: Generalidades 
+
+    p.mb-5 
     .row.justify-content-center.align-items-center.mb-5
       .col-10
         figure.mb-5
@@ -183,6 +185,8 @@
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         
     p.my-5 Con el fin de reforzar el uso y aplicación de la herramienta, se recomienda ver el Video 21, donde se explican los ajustes y partes del administrador de capas: 
+
+    p.my-5 Administración de Capas
     .row.justify-content-center.align-items-center.mb-5
       .col-10 
         figure.mb-5
@@ -202,7 +206,14 @@ export default {
       {
         titulo: '',
         texto:
-          'Según Autodesk (2019e), las capas son la forma como se puede organizar un dibujo separándolo por características, tipo de línea, color o espesores. Los dibujos se empiezan a convertir en elementos más elaborados conforme se suma contenido, las capas permiten dividir dichos elementos en grupos diferentes pero que forman parte de un dibujo principal. En la imagen se puede observar un dibujo con varias capas. En la imagen se puede ver un dibujo que posee puertas y cableado eléctrico que se superponen; esto es visualmente complejo y a la vez de difícil manipulación para la edición.',
+          'Según Autodesk (2019e), las capas son la forma como se puede organizar un dibujo separándolo por características, tipo de línea, color o espesores.                         Los dibujos se empiezan a convertir en elementos más elaborados conforme se suma contenido, las capas permiten dividir dichos elementos en grupos diferentes pero que forman parte de un dibujo principal. En la imagen se puede observar un dibujo con varias capas. En la imagen se puede ver un dibujo que posee puertas y cableado eléctrico que se superponen; esto es visualmente complejo y a la vez de difícil manipulación para la edición.',
+        imagen: require('@/assets/curso/images/tema2/img_2.svg'),
+        // leyendaImagen: 'Leyenda de la imagen',
+      },
+      {
+        titulo: '',
+        texto:
+          'Según Autodesk (2019e), las capas son la forma como se puede organizar un dibujo separándolo por características, tipo de línea, color o espesores.                         Los dibujos se empiezan a convertir en elementos más elaborados conforme se suma contenido, las capas permiten dividir dichos elementos en grupos diferentes pero que forman parte de un dibujo principal. En la imagen se puede observar un dibujo con varias capas. En la imagen se puede ver un dibujo que posee puertas y cableado eléctrico que se superponen; esto es visualmente complejo y a la vez de difícil manipulación para la edición.',
         imagen: require('@/assets/curso/images/tema2/img_2.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
