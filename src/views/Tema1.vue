@@ -55,7 +55,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
-          p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+          p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”, comando escala.
 
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
@@ -85,7 +85,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
-          p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+          p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”, comando desplazar o mover.
     
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
@@ -122,7 +122,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
-          p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+          p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”, comando copiar y copiar matriz.
     
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
@@ -152,7 +152,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
-          p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+          p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”, comando estirar.
     
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
@@ -182,7 +182,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
-          p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+          p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”, comando girar o rotar.
 
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
@@ -218,8 +218,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
-          p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
-          
+          p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”, comando simetría o espejo.
+
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
             a.anexo.mb-4(:href="obtenerLink('/downloads/Modificación_de_Geometrías_2D.pdf')" target="_blank")
@@ -248,7 +248,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
-          p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+          p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”, comando recortar.
 
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
@@ -285,7 +285,7 @@
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-8
             .cajon.color-secundario.p-4.mb-4
-              p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+              p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”, comando alargar (extender).
 
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
@@ -315,7 +315,7 @@
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-8
             .cajon.color-secundario.p-4.mb-4
-              p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+              p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”, comando chaflán.
 
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
@@ -352,7 +352,7 @@
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-8
             .cajon.color-secundario.p-4.mb-4
-              p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+              p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”, comandos empalme y chaflán.
 
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
@@ -389,7 +389,7 @@
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-8
             .cajon.color-secundario.p-4.mb-4
-              p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+              p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”, comando matriz.
 
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
@@ -424,7 +424,7 @@
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-8
             .cajon.color-secundario.p-4.mb-4
-              p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+              p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”, comando desfase.
 
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
