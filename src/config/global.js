@@ -217,14 +217,14 @@ export default {
   complementario: [
     {
       texto:
-        'Autodesk. (2019b, abril 4). Acerca del reflejo de objetos. AutoCAD 2019 | Autodesk Knowledge Network.”',
+        'Autodesk. (2019b, abril 4). Acerca del reflejo de objetos. AutoCAD 2019 | Autodesk Knowledge Network.',
       tipo: 'Página web',
       link:
         'https://knowledge.autodesk.com/es/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2019/ESP/AutoCAD-Core/files/GUID-54B774E9-EDB1-468D-8F5C-4A1B010F173A-htm.html',
     },
     {
       texto:
-        'Autodesk. (2020c, diciembre 7). Acerca del recorte y alargamiento de los objetos. AutoCAD 2021 | Autodesk Knowledge Network. ',
+        'Autodesk. (2020c, diciembre 7). Acerca del recorte y alargamiento de los objetos. AutoCAD 2021 | Autodesk Knowledge Network',
       tipo: 'Página web',
       descarga:
         'https://knowledge.autodesk.com/es/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2021/ESP/AutoCAD-Core/files/GUID-725D3A7A-5E52-47F0-BA7A-7D15F9EF6D7F-htm.html',
@@ -313,16 +313,9 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy María Ruiz Torres',
         cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
     ],
     gestoresRepositorio: [

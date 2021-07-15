@@ -36,7 +36,7 @@
 
     .row.justify-content-center.align-items-center
             .col-6.col-md-8.col-lg-6.mb-5
-                img(src="@/assets/curso/images/tema2/img_5.svg" alt="", style="width:500px; display:block; margin: 0 auto;")  
+                img(src="@/assets/curso/images/tema2/img_5.svg" alt="", style="width:550px; display:block; margin: 0 auto;")  
     br
     p.mb-5 A continuación, en la imagen se señala lo que el administrador de propiedades de capas muestra.
     br

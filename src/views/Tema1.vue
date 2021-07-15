@@ -57,6 +57,14 @@
         .cajon.color-secundario.p-4.mb-4
           p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
 
+    .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Modificación_de_Geometrías_2D.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p Anexo. Modificación de Geometrías 2D
+
     p.mb-3 Desplazar o mover
 
     .bloque-texto-a.color-custom.p-4.p-md-5.mb-5 
@@ -78,6 +86,14 @@
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
           p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+    
+    .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Modificación_de_Geometrías_2D.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p Anexo. Modificación de Geometrías 2D
 
     p.mb-5 Copiar y copiar matriz
 
@@ -107,6 +123,14 @@
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
           p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+    
+    .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Modificación_de_Geometrías_2D.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p Anexo. Modificación de Geometrías 2D
 
     p.mb-5  Estirar (alargar)
 
@@ -129,6 +153,14 @@
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
           p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+    
+    .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Modificación_de_Geometrías_2D.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p Anexo. Modificación de Geometrías 2D
 
     p.mb-5 Girar (rotar)
 
@@ -151,6 +183,14 @@
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
           p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+
+    .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Modificación_de_Geometrías_2D.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p Anexo. Modificación de Geometrías 2D
     
     p.mb-5 Símetria (Espejo)
     .bloque-texto-a.color-custom.p-4.p-md-5.mb-5 
@@ -179,6 +219,14 @@
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
           p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+          
+    .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Modificación_de_Geometrías_2D.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p Anexo. Modificación de Geometrías 2D
 
     p.mb-5 Recortar 
 
@@ -201,6 +249,14 @@
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
           p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+
+    .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Modificación_de_Geometrías_2D.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p Anexo. Modificación de Geometrías 2D
 
     p.mb-5 Alargar (extender)
 
@@ -231,6 +287,14 @@
             .cajon.color-secundario.p-4.mb-4
               p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
 
+    .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Modificación_de_Geometrías_2D.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p Anexo. Modificación de Geometrías 2D
+
     p.mb-5 Chaflán
 
     .bloque-texto-a.color-custom.p-4.p-md-5.mb-5 
@@ -252,6 +316,14 @@
           .col-lg-8
             .cajon.color-secundario.p-4.mb-4
               p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+
+    .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Modificación_de_Geometrías_2D.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p Anexo. Modificación de Geometrías 2D
 
     p.mb-5 Empalme (radio)
 
@@ -282,6 +354,14 @@
             .cajon.color-secundario.p-4.mb-4
               p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
 
+    .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Modificación_de_Geometrías_2D.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p Anexo. Modificación de Geometrías 2D
+
     p.mb-5 Matriz
 
     .bloque-texto-a.color-custom.p-4.p-md-5.mb-5 
@@ -311,6 +391,14 @@
             .cajon.color-secundario.p-4.mb-4
               p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
 
+    .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Modificación_de_Geometrías_2D.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p Anexo. Modificación de Geometrías 2D
+
     .bloque-texto-a.color-custom.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-8.mb-4.mb-lg-0
@@ -337,6 +425,14 @@
           .col-lg-8
             .cajon.color-secundario.p-4.mb-4
               p Para más información, es posible revisar el recurso de apoyo “Modificación de Geometrías 2D”.
+
+    .row.justify-content-center.align-items-center.mb-5
+          .col-lg-6
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Modificación_de_Geometrías_2D.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p Anexo. Modificación de Geometrías 2D
 
 
 
