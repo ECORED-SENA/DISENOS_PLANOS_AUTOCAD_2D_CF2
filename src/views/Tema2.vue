@@ -37,13 +37,16 @@
     .row.justify-content-center.align-items-center
             .col-6.col-md-8.col-lg-6.mb-5
                 img(src="@/assets/curso/images/tema2/img_5.svg" alt="", style="width:550px; display:block; margin: 0 auto;")  
+                br
+                figcaption Nota. Tomada de Autodesk (2019e)
     br
     p.mb-5 A continuación, en la imagen se señala lo que el administrador de propiedades de capas muestra.
     br
     .row.justify-content-center.align-items-center
             .col-6.col-md-8.col-lg-6.mb-5
                 img(src="@/assets/curso/images/tema2/img_6.svg" alt="", style="width:500px; display:block; margin: 0 auto;")  
-
+                br
+                figcaption Nota. Tomada de Autodesk (2019e)
     p.mb-3 En la imagen se puede ver que la capa actual, es decir, la capa que se tiene seleccionada en el momento, es la que tiene la paloma de color verde, “10 WALLS” hace referencia a que cualquier nueva línea o elemento que se trace quedara en dicha capa con las mismas propiedades de color, tipo de línea y espesor.
 
     p.mb-3 En la imagen interior se puede observar que hay dos bombillas apagadas, esto hace referencia a que las capas de puertas y eléctrico están apagadas, no borradas, sino que se apaga su visualización para no hacer el dibujo tan visualmente cargado.
@@ -142,13 +145,15 @@
         .col-12.col-md-8.col-lg-6.col-xl-6
 
           img(src="@/assets/curso/images/tema2/img_7.svg" alt="", style="width:550px; display: block; margin:0 auto ;")
-
+          br
+          figcaption Nota. Tomada de Autodesk (2019e)
     .row.justify-content-center.align-items-center.mt-5
         
         .col-12.col-md-8.col-lg-6.col-xl-6
 
           img(src="@/assets/curso/images/tema2/img_8.svg" alt="", style="width:550px; display: block; margin:0 auto ;")
-        
+          br
+          figcaption Nota. Tomada de Autodesk (2019e)
         .col-12.col-md-8.col-lg-6.col-xl-6
 
           h4 Acceso rápido a los parámetros de capa
@@ -162,7 +167,8 @@
         .col-12.col-md-8.col-lg-6.col-xl-6
 
           img(src="@/assets/curso/images/tema2/img_9.svg" alt="", style="width:550px; display: block; margin:0 auto ;")
-
+          br
+          figcaption Nota. Tomada de Autodesk (2019e)
     h5.mb-3 Recomendación: mantener las normas.
 
     p.mb-3 Es de vital importancia establecer o cumplir una norma de capa en toda la empresa. Con una norma de capa, la organización de los dibujos será más lógica, coherente, compatible y sostenible con el tiempo y entre departamentos. Las normas de capa son fundamentales para los proyectos en equipo.
@@ -174,7 +180,6 @@
         .col-12.col-md-8.col-lg-6.col-xl-8
 
     img(src="@/assets/curso/images/tema2/img_10.svg" alt="", style="width:850px; display: block; margin:0 auto ;")
-
     p.my-5 Capas: Generalidades 
 
     p.mb-5 
@@ -206,15 +211,9 @@ export default {
       {
         titulo: '',
         texto:
-          'Según Autodesk (2019e), las capas son la forma como se puede organizar un dibujo separándolo por características, tipo de línea, color o espesores.                         Los dibujos se empiezan a convertir en elementos más elaborados conforme se suma contenido, las capas permiten dividir dichos elementos en grupos diferentes pero que forman parte de un dibujo principal. En la imagen se puede observar un dibujo con varias capas. En la imagen se puede ver un dibujo que posee puertas y cableado eléctrico que se superponen; esto es visualmente complejo y a la vez de difícil manipulación para la edición.',
+          'Según Autodesk (2019e), las capas son la forma como se puede organizar un dibujo separándolo por características, tipo de línea, color o espesores.Los dibujos se empiezan a convertir en elementos más elaborados conforme se suma contenido, las capas permiten dividir dichos elementos en grupos diferentes pero que forman parte de un dibujo principal. En la imagen se puede observar un dibujo con varias capas. En la imagen se puede ver un dibujo que posee puertas y cableado eléctrico que se superponen; esto es visualmente complejo y a la vez de difícil manipulación para la edición.',
         imagen: require('@/assets/curso/images/tema2/img_2.svg'),
-        // leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: '',
-        texto:
-          'Según Autodesk (2019e), las capas son la forma como se puede organizar un dibujo separándolo por características, tipo de línea, color o espesores.                         Los dibujos se empiezan a convertir en elementos más elaborados conforme se suma contenido, las capas permiten dividir dichos elementos en grupos diferentes pero que forman parte de un dibujo principal. En la imagen se puede observar un dibujo con varias capas. En la imagen se puede ver un dibujo que posee puertas y cableado eléctrico que se superponen; esto es visualmente complejo y a la vez de difícil manipulación para la edición.',
-        imagen: require('@/assets/curso/images/tema2/img_2.svg'),
+
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
