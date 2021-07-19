@@ -182,6 +182,8 @@
     img(src="@/assets/curso/images/tema2/img_10.svg" alt="", style="width:850px; display: block; margin:0 auto ;")
     p.my-5 Capas: Generalidades 
 
+    p A continuación, en el Video 20, se describe el paso a paso de la aplicación y administración de capas: 
+
     p.mb-5 
     .row.justify-content-center.align-items-center.mb-5
       .col-10

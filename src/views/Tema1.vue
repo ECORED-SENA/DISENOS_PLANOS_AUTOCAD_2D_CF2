@@ -398,7 +398,7 @@
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
                 p Anexo. Modificación de Geometrías 2D
-
+    p.mb-5 Desfase 
     .bloque-texto-a.color-custom.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-8.mb-4.mb-lg-0
