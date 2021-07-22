@@ -14,9 +14,11 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-6
-          img(src="@/assets/curso/images/tema3/img_12.svg" alt="", style="width:500px; display:block; margin:0 auto;")
-          br
-          figcaption Nota. Tomada de Autodesk (2019e)
+        p.BorTit Bloques
+                figure
+                  img(src="@/assets/curso/images/tema3/img_12.svg" alt='Bloques')
+                  br
+                  figcaption Nota. Tomada de Autodesk (2019e)
 
 
     

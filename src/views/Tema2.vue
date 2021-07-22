@@ -12,7 +12,11 @@
 
     .row.justify-content-center.align-items-center
             .col-6.col-md-8.col-lg-6.mb-5
-                img(src="@/assets/curso/images/tema2/img_4.svg" alt="", style="width:400px; display:block; margin: 0 auto;")    
+              p.BorTit Capas
+                figure
+                  img(src="@/assets/curso/images/tema2/img_4.svg" alt="", style="width:400px; display:block; margin: 0 auto;")
+                  br
+                  figcaption Nota. Tomada de Autodesk (2019e)    
             .col-sm.mb-5.mb-sm-0
               p.mb-3 Con las capas, se puede:
               ul.lista-ul--color
@@ -36,6 +40,8 @@
 
     .row.justify-content-center.align-items-center
             .col-6.col-md-8.col-lg-6.mb-5
+              p.BorTit Controles de capa
+                figure
                 img(src="@/assets/curso/images/tema2/img_5.svg" alt="", style="width:550px; display:block; margin: 0 auto;")  
                 br
                 figcaption Nota. Tomada de Autodesk (2019e)
@@ -44,6 +50,8 @@
     br
     .row.justify-content-center.align-items-center
             .col-6.col-md-8.col-lg-6.mb-5
+              p.BorTit Administrador de propiedades
+                figure
                 img(src="@/assets/curso/images/tema2/img_6.svg" alt="", style="width:500px; display:block; margin: 0 auto;")  
                 br
                 figcaption Nota. Tomada de Autodesk (2019e)
@@ -143,17 +151,19 @@
           p.mb-3 Para crear una nueva capa, se debe hacer clic en el botón que se muestra y escribir el nombre de la nueva capa. Para convertir una capa diferente en la actual, se debe hacer clic en la capa, y a continuación, en el botón indicado.
 
         .col-12.col-md-8.col-lg-6.col-xl-6
-
-          img(src="@/assets/curso/images/tema2/img_7.svg" alt="", style="width:550px; display: block; margin:0 auto ;")
-          br
-          figcaption Nota. Tomada de Autodesk (2019e)
+          p.BorTit Controles del administrador de propiedades 
+                figure
+                  img(src="@/assets/curso/images/tema2/img_7.svg" alt='Controles del administrador de propiedades')
+                  br
+                  figcaption Nota. Tomada de Autodesk (2019e)
     .row.justify-content-center.align-items-center.mt-5
         
         .col-12.col-md-8.col-lg-6.col-xl-6
-
-          img(src="@/assets/curso/images/tema2/img_8.svg" alt="", style="width:550px; display: block; margin:0 auto ;")
-          br
-          figcaption Nota. Tomada de Autodesk (2019e)
+          p.BorTit Accesos rápidos
+                figure
+                  img(src="@/assets/curso/images/tema2/img_8.svg" alt='Accesos rápidos')
+                  br
+                  figcaption Nota. Tomada de Autodesk (2019e)
         .col-12.col-md-8.col-lg-6.col-xl-6
 
           h4 Acceso rápido a los parámetros de capa
@@ -165,21 +175,25 @@
           p.mb-3 Si se comete un error y se dibuja en la capa incorrecta, existen varias formas de cambiar los elementos correspondientes a la capa correcta. Uno de los métodos es seleccionar el dibujo correspondiente y cambiar la capa actual a la capa correcta. El segundo método es copiar las propiedades de capa de la capa destino y pegar dichas propiedades a los elementos del dibujo que están en la capa incorrecta.
 
         .col-12.col-md-8.col-lg-6.col-xl-6
-
-          img(src="@/assets/curso/images/tema2/img_9.svg" alt="", style="width:550px; display: block; margin:0 auto ;")
-          br
-          figcaption Nota. Tomada de Autodesk (2019e)
+          p.BorTit Correción en capas
+                figure
+                  img(src="@/assets/curso/images/tema2/img_9.svg" alt='Correción en capas')
+                  br
+                  figcaption Nota. Tomada de Autodesk (2019e)
     h5.mb-3 Recomendación: mantener las normas.
 
     p.mb-3 Es de vital importancia establecer o cumplir una norma de capa en toda la empresa. Con una norma de capa, la organización de los dibujos será más lógica, coherente, compatible y sostenible con el tiempo y entre departamentos. Las normas de capa son fundamentales para los proyectos en equipo.
 
-    p  Al momento de guardar un archivo en formato DXT como plantilla, puede guardar las capas y sus propiedades, para que al momento de dibujar en su organización se mantengan los parámetros de las mismas, así como al momento de compartir y editar archivos ajenos. Por ejemplo:
+    p.mb-5  Al momento de guardar un archivo en formato DXT como plantilla, puede guardar las capas y sus propiedades, para que al momento de dibujar en su organización se mantengan los parámetros de las mismas, así como al momento de compartir y editar archivos ajenos. Por ejemplo:
       
       
     .row.justify-content-center.align-items-center.mb-5
         .col-12.col-md-8.col-lg-6.col-xl-8
-
-    img(src="@/assets/curso/images/tema2/img_10.svg" alt="", style="width:850px; display: block; margin:0 auto ;")
+          p.BorTit Ejemplo de propiedades de capa 
+                figure
+                  img(src="@/assets/curso/images/tema2/img_10.svg" alt='Ejemplo de propiedades de capa')
+                  br
+                  figcaption Nota. Tomada de Autodesk (2019e)
     p.my-5 Capas: Generalidades 
 
     p A continuación, en el Video 20, se describe el paso a paso de la aplicación y administración de capas: 
