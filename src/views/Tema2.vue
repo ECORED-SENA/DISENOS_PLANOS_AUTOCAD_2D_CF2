@@ -227,7 +227,7 @@ export default {
       {
         titulo: '',
         texto:
-          'Según Autodesk (2019e), las capas son la forma como se puede organizar un dibujo separándolo por características, tipo de línea, color o espesores.Los dibujos se empiezan a convertir en elementos más elaborados conforme se suma contenido, las capas permiten dividir dichos elementos en grupos diferentes pero que forman parte de un dibujo principal. En la imagen se puede observar un dibujo con varias capas. En la imagen se puede ver un dibujo que posee puertas y cableado eléctrico que se superponen; esto es visualmente complejo y a la vez de difícil manipulación para la edición.',
+          'Según Autodesk (2019e), las capas son la forma como se puede organizar un dibujo separándolo por características, tipo de línea, color o espesores. <br><br> Los dibujos se empiezan a convertir en elementos más elaborados conforme se suma contenido, las capas permiten dividir dichos elementos en grupos diferentes pero que forman parte de un dibujo principal. En la imagen se puede observar un dibujo con varias capas. <br><br> Igualmente se puede ver que en el dibujo hay puertas y cableado eléctrico que se superponen; esto es visualmente complejo y a la vez de difícil manipulación para la edición.',
         imagen: require('@/assets/curso/images/tema2/img_2.svg'),
 
         // leyendaImagen: 'Leyenda de la imagen',
@@ -235,7 +235,7 @@ export default {
       {
         titulo: '',
         texto:
-          'En la siguiente imagen se ocultan las puertas y cableado eléctrico para reducir el contenido del dibujo sin borrar o eliminar dichos elementos. Puede obtener este nivel de control organizando los objetos del dibujo en capas asociadas a una función o un objetivo específico. Puede resultar útil imaginar que las capas son como hojas de plástico transparentes o acetatos sobre los que se dibujan mapas y cada uno tiene una característica especial, como vías, parques, edificios, etc.',
+          'En la siguiente imagen se ocultan las puertas y cableado eléctrico para reducir el contenido del dibujo sin borrar o eliminar dichos elementos. <br><br> Puede obtener este nivel de control organizando los objetos del dibujo en capas asociadas a una función o un objetivo específico. Puede resultar útil imaginar que las capas son como hojas de plástico transparentes o acetatos sobre los que se dibujan mapas y cada uno tiene una característica especial, como vías, parques, edificios, etc.',
         imagen: require('@/assets/curso/images/tema2/img_3.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
