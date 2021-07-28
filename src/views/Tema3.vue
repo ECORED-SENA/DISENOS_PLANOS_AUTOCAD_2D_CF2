@@ -66,14 +66,13 @@
         .cajon.color-primario.p-4.mb-3
           p <b>Consejo:</b> Con el acceso en línea, se pueden descargar archivos de dibujo de AutoCAD en los sitios web de proveedores y distribuidores comerciales. Esta opción puede ahorrar una cantidad considerable de tiempo, pero hay que asegurarse de que estos dibujos se hayan dibujado correctamente y con la escala adecuada.
 
-    p.mb-5 Con el fin de reforzar el uso y aplicación del comando, se recomienda ver el Video 22, donde se explica la creación de capas: 
+    p.mb-5 Con el fin de reforzar el uso y aplicación del comando, se recomienda ver el Video 22, donde se explica la creación de bloques: 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/98B0AzagjeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </template>
 

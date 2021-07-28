@@ -203,7 +203,7 @@
       .col-10
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/H6XrC47z2Ow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         
     p.my-5 Con el fin de reforzar el uso y aplicación de la herramienta, se recomienda ver el Video 21, donde se explican los ajustes y partes del administrador de capas: 
 
@@ -212,8 +212,7 @@
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/hR2Qy0IMJ4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

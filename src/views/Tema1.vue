@@ -43,14 +43,15 @@
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/V4KCVdIFP7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          
 
       p.my-3 Con el fin de reforzar el uso y aplicación del comando, se recomienda ver el Video 2: 
     .row.justify-content-center.align-items-center.mb-5
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/r8K1MtIcyh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -80,8 +81,7 @@
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/-DnoPsDH0u0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
@@ -110,15 +110,14 @@
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/qmP_pqlhakk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
       p.mb-3 Con el fin de reforzar el uso y aplicación del comando, se recomienda ver el Video 5:
     .row.justify-content-center.align-items-center.mb-5
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/oMLPAJ6FK2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
@@ -147,7 +146,7 @@
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/mKHvlu_QNOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -177,7 +176,7 @@
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/LLTw7n-YPs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -206,14 +205,15 @@
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/I9GLMclBw7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            
     
       p.mb-3 Con el fin de reforzar el uso y aplicación del comando, se recomienda ver el Video 9, donde se explican los comandos girar y simetría: 
     .row.justify-content-center.align-items-center.mb-5
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/3yqkdB_Nhmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -243,7 +243,7 @@
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/DOpW3sGxSwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
@@ -273,14 +273,14 @@
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/ryGHOBqSA-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       p.mb-3 Con el fin de reforzar el uso y aplicación del comando, se recomienda ver el Video 12, donde se explican los comandos alargar (extender) y recortar: 
     .row.justify-content-center.align-items-center.mb-5
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/DOpW3sGxSwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-8
@@ -310,7 +310,7 @@
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/LpXa6Jm-J1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-8
@@ -340,14 +340,14 @@
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/JE-KOhZNh5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       p.mb-3 Con el fin de reforzar el uso y aplicación del comando, se recomienda ver el Video 15, donde se explican los comandos empalme y chaflán: 
     .row.justify-content-center.align-items-center.mb-5
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/ideZSDcXJKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-8
@@ -377,14 +377,14 @@
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/-IfpwUQS3_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       p.mb-3 Con el fin de reforzar el uso y aplicación del comando, se recomienda ver el Video 17, donde se explican los comandos de matriz rectangular, polar y de camino: 
     .row.justify-content-center.align-items-center.mb-5
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/HPTQzEsZM2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-8
@@ -412,14 +412,14 @@
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/hoLza9enjAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
       p.mb-3 Con el fin de reforzar el uso y aplicación del comando, se recomienda ver el Video 19, donde se explica el comando desfase: 
     .row.justify-content-center.align-items-center.mb-5
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/nMb96BP2VOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
     .row.justify-content-center.align-items-center.mb-5
           .col-lg-8
