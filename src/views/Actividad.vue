@@ -10,15 +10,15 @@
             img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9Relacionar 
         .titulo-segundo
-          h2 Actividad didáctica 1 mosaico (emparejamiento)
+          h2 Actividad didáctica 
         p.mb-4 
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 La intención es encontrar la pareja de cada uno de los iconos o comandos escritos, según su definición.
+              p.fw-bold.mb-0 Completar el párrafo con los comandos, término o combinación de teclas que le corresponde.
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
-                span Realizar
+              a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
+                span Iniciar
                 i.fas.fa-puzzle-piece
 
     
