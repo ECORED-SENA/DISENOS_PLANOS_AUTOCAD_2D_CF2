@@ -1,8 +1,8 @@
-# **sena-base-2021 v3.2.0**
+# **Diseños y vistas 2D con herramientas de edición**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/DISENOS_PLANOS_AUTOCAD_2D_CF2/](https://ecored-sena.github.io/DISENOS_PLANOS_AUTOCAD_2D_CF2/)
 
 #
 
