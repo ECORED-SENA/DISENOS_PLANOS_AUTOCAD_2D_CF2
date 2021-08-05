@@ -55,7 +55,7 @@
                 img(src="@/assets/curso/images/tema2/img_6.svg" alt="", style="width:500px; display:block; margin: 0 auto;")  
                 br
                 figcaption Nota. Tomada de Autodesk (2019e)
-    p.mb-3 En la imagen se puede ver que la capa actual, es decir, la capa que se tiene seleccionada en el momento, es la que tiene la paloma de color verde, “10 WALLS” hace referencia a que cualquier nueva línea o elemento que se trace quedara en dicha capa con las mismas propiedades de color, tipo de línea y espesor.
+    p.mb-3 En la imagen se puede ver que la capa actual, es decir, la capa que se tiene seleccionada en el momento, es la que tiene la paloma de color verde, “10 WALLS” hace referencia a que cualquier nueva línea o elemento que se trace quedará en dicha capa con las mismas propiedades de color, tipo de línea y espesor.
 
     p.mb-3 En la imagen interior se puede observar que hay dos bombillas apagadas, esto hace referencia a que las capas de puertas y eléctrico están apagadas, no borradas, sino que se apaga su visualización para no hacer el dibujo tan visualmente cargado.
 
@@ -122,7 +122,7 @@
       .tarjeta.color-tarjeta.p-4(titulo="Inutilizar capas")
         .row
           .col-8
-            p Tiene la misma característica que desactivar capa, pero para dibujos más elaborados y complejos mejora el rendimiento del software.
+            p Tiene la misma característica que desactivar capa, pero para dibujos más elaborados y complejos mejora el rendimiento del #[i software].
           .col-2
               figure
                 img(src='@/assets/curso/images/tema2/ico_14.svg', alt="", style="width:500px; display:block; margin: 0 3rem;") 
@@ -130,7 +130,7 @@
       .tarjeta.color-tarjeta.p-4(titulo="Bloquear capas")
         .row
           .col-8
-            p Todo elemento que tenga activado este icono queda con una transparencia para hacer el dibujo menos cargado visualmente y a la vez impide que se edite por error alguna característica del dibujo que este en esa capa.
+            p Todo elemento que tenga activado este ícono queda con una transparencia para hacer el dibujo menos cargado visualmente y a la vez impide que se edite por error alguna característica del dibujo que este en esa capa.
           .col-2
               figure
                 img(src='@/assets/curso/images/tema2/ico_15.svg', alt="", style="width:500px; display:block; margin: 0 3rem;") 

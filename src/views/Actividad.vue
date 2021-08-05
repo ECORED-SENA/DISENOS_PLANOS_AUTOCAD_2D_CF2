@@ -15,7 +15,7 @@
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Colocar cada icono en la casilla que concuerda con su correspondiente definición.
+              p.fw-bold.mb-0 Colocar cada ícono en la casilla que concuerda con su correspondiente definición.
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
                 span Iniciar

@@ -226,7 +226,7 @@ export default {
       texto:
         'Autodesk. (2020c, diciembre 7). Acerca del recorte y alargamiento de los objetos. AutoCAD 2021 | Autodesk Knowledge Network',
       tipo: 'Página web',
-      descarga:
+      link:
         'https://knowledge.autodesk.com/es/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2021/ESP/AutoCAD-Core/files/GUID-725D3A7A-5E52-47F0-BA7A-7D15F9EF6D7F-htm.html',
     },
     {
@@ -240,7 +240,7 @@ export default {
       texto:
         'Autodesk. (2019a, abril 4). Acerca de las matrices. AutoCAD 2019 | Autodesk Knowledge Network.',
       tipo: 'Página web',
-      descarga:
+      link:
         'https://knowledge.autodesk.com/es/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2019/ESP/AutoCAD-Core/files/GUID-07CB282A-2C71-46FE-937F-BC3DFB2C068B-htm.html',
     },
     {
