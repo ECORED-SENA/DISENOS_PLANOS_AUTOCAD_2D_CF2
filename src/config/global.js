@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Diseños y vistas 2D con herramientas de edición',
     descripcionCurso:
-      'Después de crear geometrías básicas apoyadas de las herramientas de dibujo de AutoCAD 2D, el software dispone de herramientas de modificación para realizar un flujo de trabajo más eficiente, simplificando tareas en la elaboración de dibujos.',
+      'Después de crear geometrías básicas apoyadas de las herramientas de dibujo de AutoCAD 2D, el <i>software</i> dispone de herramientas de modificación para realizar un flujo de trabajo más eficiente, simplificando tareas en la elaboración de dibujos.',
     imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.png'),
   },
